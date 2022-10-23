@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Czer0x</h1>
 <h3 align="center">A passionate python developer from Poland!</h3>
-<img align="right" alt="Coding" width="400" src="http://studiopixel.in/wp-content/uploads/2017/11/senior-front-end-developer-openings-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czer0xx&label=Profile%20views&color=0e75b6&style=flat" alt="czer0xx" /> </p>
 
@@ -20,9 +19,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Czer0x"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Czer0x" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=czer0xx&show_icons=true&locale=en&layout=compact" alt="czer0xx" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=czer0xx&show_icons=true&locale=en" alt="czer0xx" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=czer0xx&" alt="czer0xx" /></p>
