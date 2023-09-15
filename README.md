@@ -1,12 +1,11 @@
+<h1 align="center">Czer0x</h1>
+
 <h3 align="center">I'm a junior programmer from Poland, and I have a real passion for learning new programming languages. I started my coding journey by learning languages like Python and others that are easy to understand. Now, I'm diving into the world of more complex low-level languages like Rust. Let's explore this exciting journey of constant learning and creativity together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czer0xx&label=Profile%20views&color=000000&style=flat-square" alt="czer0xx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=czer0xx" alt="czer0xx" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/czer0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="czer0x" height="30" width="40" /></a>
 <a href="https://twitter.com/czer0x_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="czer0x_" height="30" width="40" /></a>
 </p>
 
