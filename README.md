@@ -1,7 +1,5 @@
 <h1 align="center">Czer0x</h1>
 
-<h3 align="center">I'm a junior programmer from Poland, and I have a real passion for learning new programming languages. I started my coding journey by learning languages like Python and other high-level programming languages. Now, I'm diving into the world of more complex low-level languages like Rust. Let's explore this exciting journey of constant learning and creativity together!</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=czer0xx&label=Profile%20views&color=000000&style=flat-square" alt="czer0xx" /> </p>
 
 <h3 align="left">Connect with me:</h3>
